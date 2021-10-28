@@ -1,6 +1,6 @@
 # ACF Gutenberg Demo Theme
 
-A quick naked theme to demonstrate how you can use ACF to create blocks coupled with ACF.
+A quick naked theme to demonstrate how easy it is to support Gutenberg using ACF blocks
 
 
 https://user-images.githubusercontent.com/25981099/139225738-b2d418c4-af9a-44ae-9c71-a0aff2ce4f57.mp4
